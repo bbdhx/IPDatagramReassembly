@@ -1,4 +1,9 @@
-# Hole-based IP dategram reassembly algorithm
+# Hole-based IP datagram reassembly algorithm
+## 1. content
+  - Design a reorganization algorithm for IP datagram based on C++ language.
+  - Given IP datagram length and MTU,implement sharding of IP datagrams.
+  - Send the shards randomly to the destination.
+  - The destination reorganization the fragments that arrive in random order based on the "hole" algorithm.
 
 ## 1. 内容
   - 基于C++语言设计对IP数据报分片的重组算法。
