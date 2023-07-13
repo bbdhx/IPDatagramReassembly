@@ -7,4 +7,5 @@
   - 目的端基于“洞”算法对随机顺序到达的分片进行重组。
  
 ## 2. illustration
-  <img src="/IPDatagramReassembly/illustration/eample01.png" alt="IPDR01" title="IPDR01">
+  <img src="/illustration/example01.png" alt="IPDR01" title="IPDR01">  
+  <img src="/illustration/example02.png" alt="IPDR02" title="IPDR02">
